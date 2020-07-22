@@ -1,0 +1,123 @@
+@import "../../themes/vars.less";
+
+.header {
+  :global .ant-menu-horizontal {
+    & > .ant-menu-submenu {
+      float: right;
+    }
+    border: none;
+    display: inline-block;
+  }
+  //box-shadow: @shadow-2;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  // height: 47px;
+  height:49px;
+  background-color:#363636;
+
+  .rightWarpper {
+    display: flex;
+    padding-right: 16px;
+  }
+
+  .button {
+    width: 47px;
+    height: 47px;
+    line-height: 47px;
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+    color:#289bff;
+    transition: @transition-ease-in;
+
+    &:hover {
+      color: @primary-color;
+      background-color: fade(@primary-color, 15%);
+    }
+  }
+}
+
+.popovermenu {
+  width: 280px;
+  margin-left: 6px;
+
+  :global .ant-popover-inner-content {
+    padding: 0;
+
+    .ant-menu-inline .ant-menu-item,
+    .ant-menu-vertical .ant-menu-item {
+      border-right: 0;
+      height: 48px;
+      line-height: 48px;
+    }
+
+    .ant-menu-inline .ant-menu-item-selected,
+    .ant-menu-inline .ant-menu-selected {
+      border-right: 0;
+    }
+  }
+}
+
+@media (min-width: 3800px) {
+  .header {
+    :global .ant-menu-horizontal {
+      & > .ant-menu-submenu {
+        float: right;
+      }
+      border: none;
+      display: inline-block;
+    }
+    //box-shadow: @shadow-2;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    height: 132px;
+    background-color: #F1F1F1;
+
+    .rightWarpper {
+      display: flex;
+      padding-right: 45px;
+    }
+
+    .button {
+      width: 132px;
+      height: 132px;
+      line-height: 152px;
+      text-align: center;
+      font-size: 18px;
+      cursor: pointer;
+      transition: @transition-ease-in;
+
+      .icon {
+        font-size: 40px;
+      }
+
+      &:hover {
+        color: @primary-color;
+        background-color: fade(@primary-color, 15%);
+      }
+    }
+  }
+
+  .popovermenu {
+    width: 784px;
+    margin-left: 17px;
+
+    :global .ant-popover-inner-content {
+      padding: 0;
+
+      .ant-menu-inline .ant-menu-item,
+      .ant-menu-vertical .ant-menu-item {
+        border-right: 0;
+        height: 135px;
+        line-height: 135px;
+      }
+
+      .ant-menu-inline .ant-menu-item-selected,
+      .ant-menu-inline .ant-menu-selected {
+        border-right: 0;
+      }
+    }
+  }
+}

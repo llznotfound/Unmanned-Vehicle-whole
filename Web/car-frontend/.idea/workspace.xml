@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c14d093-14c4-4dd3-9927-e3a60949fc69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/workingPoint.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/workingPoint.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/main/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/main/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/main/workingstatus.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/main/workingstatus.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/main/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/main/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/main_2/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/main_2/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SuKKyBpvml2Iyo2pLakL8ShnP0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c14d093-14c4-4dd3-9927-e3a60949fc69" name="Default Changelist" comment="" />
+      <created>1572407980974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572407980974</updated>
+      <workItem from="1572407982040" duration="2420000" />
+      <workItem from="1572509395380" duration="4581000" />
+      <workItem from="1585188953900" duration="3007000" />
+      <workItem from="1585279223206" duration="1564000" />
+      <workItem from="1585288545101" duration="2614000" />
+      <workItem from="1585494326115" duration="45000" />
+      <workItem from="1585535551324" duration="130000" />
+      <workItem from="1585571886927" duration="727000" />
+      <workItem from="1585808979004" duration="611000" />
+      <workItem from="1585980690085" duration="636000" />
+      <workItem from="1586314582074" duration="6000" />
+      <workItem from="1586349160285" duration="716000" />
+      <workItem from="1586420290577" duration="459000" />
+      <workItem from="1586479426579" duration="1859000" />
+      <workItem from="1586615511914" duration="609000" />
+      <workItem from="1586826712441" duration="2043000" />
+      <workItem from="1586931276265" duration="2423000" />
+      <workItem from="1586961700617" duration="58000" />
+      <workItem from="1586996590844" duration="4133000" />
+      <workItem from="1587014594748" duration="2005000" />
+      <workItem from="1587036933989" duration="635000" />
+      <workItem from="1587086290640" duration="1251000" />
+      <workItem from="1587191807773" duration="691000" />
+      <workItem from="1587216014113" duration="710000" />
+      <workItem from="1587368399967" duration="19000" />
+      <workItem from="1587368442405" duration="641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-725" y="15" key="FileChooserDialogImpl" timestamp="1587041777513">
+      <screen x="-1080" y="-326" width="1080" height="1880" />
+    </state>
+    <state x="-725" y="15" key="FileChooserDialogImpl/0.0.1280.760/-1080.-326.1080.1880@-1080.-326.1080.1880" timestamp="1587041777513" />
+    <state x="421" y="138" key="FileChooserDialogImpl/0.0.1280.760/-1080.-326.1080.1880@0.0.1280.760" timestamp="1586961756916" />
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup" timestamp="1585280738942">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1585280738942" />
+  </component>
+</project>

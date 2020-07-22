@@ -1,0 +1,101 @@
+/* pages/map/map.wxss */
+.map{
+  position: relative;
+  width: 100%;
+  height: 80%;
+  font-size: 34rpx;
+}
+
+.section{
+  height: 70%; 
+}
+map{
+   width: 100%; 
+   height: 100%; 
+}
+.searchCon{
+  position: relative;
+  z-index: 100;
+  background: #fff;
+  margin: 0  25rpx;
+}
+.searchCon-item{
+  display: flex;
+  padding: 20rpx;
+  text-overflow: ellipsis;
+}
+.searchCon-item .searchIcon{
+  font-size: 32rpx;
+  min-width:6%;
+  width:6%;
+
+}
+.searchCon-item .searchIcon cover-image{
+  width: 100%;
+}
+.addressname{
+  display: flex;
+  padding-left: 10rpx;
+  text-overflow: ellipsis;
+  
+}
+.addressname  cover-view{
+  color: #999;
+  font-size: 30rpx;
+  padding-left: 10rpx;
+  text-overflow: ellipsis;
+}
+.mapPic{
+  position: absolute;
+  top: -71rpx;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width:60rpx;
+  height:60rpx;
+  /* background: #000; */
+  
+}
+.mapPic cover-image{
+  width: 100%;
+}
+.click{
+  position:fixed;
+  width:50rpx;
+  height: 50rpx;
+  top: 800rpx;
+
+}
+.raise{
+  position:fixed;
+  width: 50rpx;
+  height: 50rpx;
+  top: 750rpx;
+  left: 650rpx;
+}
+.reduce{
+  position:fixed;
+  width: 50rpx;
+  height: 50rpx;
+  top: 800rpx;
+  left: 650rpx
+}
+.footer{
+  height: 10%;
+  padding:10rpx;
+  width: 100%;
+}
+.footer>view:not(:last-of-type){
+  padding-bottom: 5rpx;
+}
+.footer>view{
+  display: flex;
+  flex-wrap: wrap;
+}
+.footer>view text:nth-of-type(1){
+  width: 100%;
+}
+.footer>view text:nth-of-type(2){
+  width: 85%;
+}

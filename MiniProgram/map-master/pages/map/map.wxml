@@ -1,0 +1,36 @@
+<view class='map'>
+  <!-- 地图 -->
+  <map id="myMap" latitude="{{latitude}}" longitude="{{longitude}}" scale="{{scale}}" markers="{{markers}}" covers="{{covers}}" controls="{{controls}}" bindcontroltap="controltap" bindmarkertap="markertap" bindregionchange="regionchange" polyline="{{polyline}}" include-points="{{markers}}" show-location>
+    <!-- 中间红色图标 -->
+    <cover-view class='mapPic'>
+      <cover-image src='/../../../public/image/location.png'></cover-image>
+    </cover-view>
+    <cover-view class='click'>
+      <cover-image src='/../../../public/image/a.png' bindtap="click"></cover-image>
+    </cover-view>
+    <cover-view class="raise">
+    <cover-image src='/../../../public/image/1.png' bindtap="controltap"></cover-image>
+    </cover-view>
+    <cover-view class="reduce">
+    <cover-image src='/../../../public/image/2.png' bindtap="controltap"></cover-image>
+    </cover-view>
+  </map>
+</view>
+<!-- 获取的地址信息 -->
+<view class='footer'>
+  <view>
+    <text>经度:{{longitude}}</text>
+  </view>
+  <view>
+    <text>纬度:{{latitude}}</text>
+  </view>
+</view>
+<view class="BGView">
+  <view wx:for='{{types}}' wx:key='key' class='typesView'>
+    <!--<view class='titleView'>{{item}}</view>-->
+    <view class='valueView'>转换后：{{result[index].latitude}},{{result[index].longitude}}</view>
+  </view>
+</view>
+<view>
+<text bindtap='downloadFile'> 下载</text>
+</view>

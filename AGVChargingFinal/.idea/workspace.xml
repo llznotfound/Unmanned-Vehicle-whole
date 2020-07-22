@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04165faa-aece-4d26-9af4-01ce05c980a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BASE/adjust.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/AffineTransformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/AffineTransformation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/FindingObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/FindingObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/FindingOrientationOfContours.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/FindingOrientationOfContours.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/Imagehandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/Imagehandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/PatternFinding.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/PatternFinding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/camera_calibration.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/camera_cal/camera_calibration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/ipcamCapture.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/camera_cal/ipcamCapture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/camera_cal.p" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/camera_cal/my_image/camera_cal.p" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/camera_calibration.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/camera_cal/my_image/camera_calibration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/camera_cal/my_image/img9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/helper/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/helper/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/helper/socket_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/helper/socket_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/helper/takePictureCmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/helper/takePosition.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/helper/takePosition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/helper/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/helper/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/template2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASE/testV9.py" beforeDir="false" afterPath="$PROJECT_DIR$/BASE/testV9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car/car_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/Car/car_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car/pid_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/Car/pid_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car/pure_pursuit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Car/pure_pursuit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car/reeds_shepp_path_planning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Car/reeds_shepp_path_planning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car/socket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Car/socket_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/carDetect2020II$pure_pursuit.coverage" NAME="pure_pursuit Coverage Results" MODIFIED="1590931085282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Car" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$unicycle_model.coverage" NAME="unicycle_model Coverage Results" MODIFIED="1590931092577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Car" />
+    <SUITE FILE_PATH="coverage/AGVChargingFinal$testV9.coverage" NAME="testV9 Coverage Results" MODIFIED="1593156016434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$takePosition.coverage" NAME="takePosition Coverage Results" MODIFIED="1590751493278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE/helper" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$car_control.coverage" NAME="car_control Coverage Results" MODIFIED="1591340174077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Car" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$text2.coverage" NAME="text2 Coverage Results" MODIFIED="1591362223488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$testV9.coverage" NAME="testV9 Coverage Results" MODIFIED="1591263309870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/carDetect2020II_3$text2.coverage" NAME="text2 Coverage Results" MODIFIED="1592454322543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$helpers.coverage" NAME="helpers Coverage Results" MODIFIED="1591080598951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE/helper" />
+    <SUITE FILE_PATH="coverage/carDetect2020III$socket_test.coverage" NAME="socket_test Coverage Results" MODIFIED="1593002891754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE/helper" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$plottraj.coverage" NAME="plottraj Coverage Results" MODIFIED="1591346164621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Car" />
+    <SUITE FILE_PATH="coverage/AGVChargingFinal$adjust.coverage" NAME="adjust Coverage Results" MODIFIED="1593155673104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/carDetect2020II_3$socket_test.coverage" NAME="socket_test Coverage Results" MODIFIED="1592990466460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE/helper" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$socket_test.coverage" NAME="socket_test Coverage Results" MODIFIED="1591256458920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE/helper" />
+    <SUITE FILE_PATH="coverage/carDetect2020II_3$adjust.coverage" NAME="adjust Coverage Results" MODIFIED="1591438933866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$adjust.coverage" NAME="adjust Coverage Results" MODIFIED="1591263479514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$reeds_shepp_path_planning.coverage" NAME="reeds_shepp_path_planning Coverage Results" MODIFIED="1590813713761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Car" />
+    <SUITE FILE_PATH="coverage/carDetect2020II_3$car_control.coverage" NAME="car_control Coverage Results" MODIFIED="1592454310983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Car" />
+    <SUITE FILE_PATH="coverage/carDetect2020II_3$text3.coverage" NAME="text3 Coverage Results" MODIFIED="1592402909142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE/camera_cal" />
+    <SUITE FILE_PATH="coverage/carDetect2020II_3$testV9.coverage" NAME="testV9 Coverage Results" MODIFIED="1592981157740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/carDetect2020II$text.coverage" NAME="text Coverage Results" MODIFIED="1591327553021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/carDetect2020III$testV9.coverage" NAME="testV9 Coverage Results" MODIFIED="1593003024659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE" />
+    <SUITE FILE_PATH="coverage/AGVChargingFinal$socket_test.coverage" NAME="socket_test Coverage Results" MODIFIED="1593150763858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BASE/helper" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1413184705">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="py" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="247" />
+          <entry key="py" value="3092" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="3339" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="19126919">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="787" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="787" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="5" />
+          <entry key="py" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1960777437">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="732" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="732" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-483722253">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="158" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="158" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BASE/camera_cal/ipcamCapture.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-614">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BASE/testV9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="187" column="34" lean-forward="true" selection-start-line="187" selection-start-column="34" selection-end-line="187" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BASE/helper/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BASE/adjust.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1747">
+              <caret line="174" column="43" lean-forward="true" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BASE/FindingObject.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BASE/Imagehandler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="e#87#128#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BASE/helper/socket_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CAR/car_controlV2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1860">
+              <caret line="132" column="25" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CAR/testPid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2550">
+              <caret line="178" column="8" selection-start-line="178" selection-start-column="8" selection-end-line="178" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CAR/socket_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readable</find>
+      <find>cnt</find>
+      <find>basetcp</find>
+      <find>massQuad</find>
+      <find>print</find>
+      <find>calc_speed_profile</find>
+      <find>set_stop_point</find>
+      <find>Kp</find>
+      <find>display</find>
+      <find>Planpt</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BASE/helper/takePictureCmd.py" />
+        <option value="$PROJECT_DIR$/Car/socket_server.py" />
+        <option value="$PROJECT_DIR$/Car/reeds_shepp_path_planning.py" />
+        <option value="$PROJECT_DIR$/BASE/AffineTransformation.py" />
+        <option value="$PROJECT_DIR$/BASE/FindingOrientationOfContours.py" />
+        <option value="$PROJECT_DIR$/BASE/helper/helpers.py" />
+        <option value="$PROJECT_DIR$/BASE/helper/takePosition.py" />
+        <option value="$PROJECT_DIR$/BASE/FindingObject.py" />
+        <option value="$PROJECT_DIR$/BASE/PatternFinding.py" />
+        <option value="$PROJECT_DIR$/BASE/text.py" />
+        <option value="$PROJECT_DIR$/Car/plottraj.py" />
+        <option value="$PROJECT_DIR$/Car/unicycle_model.py" />
+        <option value="$PROJECT_DIR$/Car/pure_pursuit.py" />
+        <option value="$PROJECT_DIR$/Car/car_controlV2.py" />
+        <option value="$PROJECT_DIR$/BASE/camera_cal/text3.py" />
+        <option value="$PROJECT_DIR$/BASE/text3.py" />
+        <option value="$PROJECT_DIR$/BASE/Imagehandler.py" />
+        <option value="$PROJECT_DIR$/Car/testPid.py" />
+        <option value="$PROJECT_DIR$/Car/parameter.py" />
+        <option value="$PROJECT_DIR$/BASE/text2.py" />
+        <option value="$PROJECT_DIR$/Car/car_control.py" />
+        <option value="$PROJECT_DIR$/BASE/camera_cal/ipcamCapture.py" />
+        <option value="$PROJECT_DIR$/BASE/helper/socket_test.py" />
+        <option value="$PROJECT_DIR$/BASE/helper/utils.py" />
+        <option value="$PROJECT_DIR$/BASE/testV9.py" />
+        <option value="$PROJECT_DIR$/BASE/adjust.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AGVChargingFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGVChargingFinal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGVChargingFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGVChargingFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="BASE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGVChargingFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGVChargingFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="BASE" type="462c0819:PsiDirectoryNode" />
+              <item name="camera_cal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGVChargingFinal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGVChargingFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="BASE" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BASE" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BASE" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testV9">
+    <configuration name="adjust" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="carDetect2020II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BASE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BASE/adjust.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="car_control" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="carDetect2020II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Car" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Car/car_control.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="carDetect2020II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BASE/helper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BASE/helper/socket_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testV9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="carDetect2020II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BASE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BASE/testV9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="carDetect2020II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BASE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BASE/text2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.text2" />
+      <item itemvalue="Python.testV9" />
+      <item itemvalue="Python.car_control" />
+      <item itemvalue="Python.socket_test" />
+      <item itemvalue="Python.adjust" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testV9" />
+        <item itemvalue="Python.adjust" />
+        <item itemvalue="Python.socket_test" />
+        <item itemvalue="Python.text2" />
+        <item itemvalue="Python.car_control" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04165faa-aece-4d26-9af4-01ce05c980a5" name="Default Changelist" comment="" />
+      <created>1590738103687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590738103687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12589413" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.16506024" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.40240964" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32891566" />
+      <window_info anchor="right" id="R Graphics" order="0" />
+      <window_info anchor="right" id="R Packages" order="1" />
+      <window_info active="true" anchor="right" id="SciView" order="2" visible="true" weight="0.3197425" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Car/socket_server.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Car/reeds_shepp_path_planning.py</url>
+          <line>382</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Car/reeds_shepp_path_planning.py</url>
+          <line>387</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Car/car_control.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Car/pure_pursuit.py</url>
+          <line>222</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Car/car_control.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BASE/helper/takePictureCmd.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/python3.7.3/lib/python3.7/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="4560" column="4" selection-start-line="4560" selection-start-column="4" selection-end-line="4560" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/python3.7.3/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/helper/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/AffineTransformation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/PatternFinding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Car/README.md" />
+    <entry file="file://$PROJECT_DIR$/CAR/unicycle_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Car/plottraj.py" />
+    <entry file="file://$PROJECT_DIR$/CAR/pid_control.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAR/reeds_shepp_path_planning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="249" column="21" selection-start-line="249" selection-start-column="21" selection-end-line="249" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/text.py" />
+    <entry file="file://$PROJECT_DIR$/BASE/statex.csv" />
+    <entry file="file://$PROJECT_DIR$/BASE/x.csv" />
+    <entry file="file://$PROJECT_DIR$/BASE/currentx.csv" />
+    <entry file="file://$PROJECT_DIR$/BASE/currenty.csv" />
+    <entry file="file://$PROJECT_DIR$/BASE/FindingOrientationOfContours.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAR/pure_pursuit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="135" column="41" selection-start-line="135" selection-start-column="41" selection-end-line="135" selection-end-column="41" />
+          <folding>
+            <element signature="e#116#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/helper/takePosition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="69" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Car/pure_pursuit_old.py" />
+    <entry file="file://$PROJECT_DIR$/CAR/car_control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret line="189" column="59" selection-start-line="189" selection-start-column="59" selection-end-line="189" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/y.csv" />
+    <entry file="file://$PROJECT_DIR$/BASE/text2.py" />
+    <entry file="file://$PROJECT_DIR$/BASE/text3.py" />
+    <entry file="file://$PROJECT_DIR$/CAR/parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/FindingObject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/Imagehandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#87#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAR/car_controlV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="132" column="25" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAR/testPid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="178" column="8" selection-start-line="178" selection-start-column="8" selection-end-line="178" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAR/socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/camera_cal/ipcamCapture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-614">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/helper/socket_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/helper/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/testV9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="187" column="34" lean-forward="true" selection-start-line="187" selection-start-column="34" selection-end-line="187" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BASE/adjust.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1747">
+          <caret line="174" column="43" lean-forward="true" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
