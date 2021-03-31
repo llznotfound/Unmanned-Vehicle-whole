@@ -8866,10 +8866,10 @@ write@^0.2.1:
   dependencies:
     mkdirp "^0.5.1"
 
-xlsx@^0.13.1:
+xlsx@^0.13.5:
   version "0.13.5"
-  resolved "https://registry.npm.taobao.org/xlsx/download/xlsx-0.13.5.tgz#65826ba1944c6f4d6c023b7eb6c89e6b6e0d71b7"
-  integrity sha1-ZYJroZRMb01sAjt+tsiea24Ncbc=
+  resolved "https://registry.yarnpkg.com/xlsx/-/xlsx-0.13.5.tgz#65826ba1944c6f4d6c023b7eb6c89e6b6e0d71b7"
+  integrity sha512-AQo8Anyuv8ZxegAH2EUJ9ZauLf3lIDPfmV7OpJi79LNW6jO4gsviJyQCjNCJY7Deu1SLCrr7LY6rM9N91ixaDQ==
   dependencies:
     adler-32 "~1.2.0"
     cfb "~1.0.8"
@@ -8900,9 +8900,9 @@ xtend@~3.0.0:
   integrity sha1-XM50B7r2Qsunvs2laBEcST9ZZlo=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.npm.taobao.org/y18n/download/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 y18n@^4.0.0:
   version "4.0.0"
